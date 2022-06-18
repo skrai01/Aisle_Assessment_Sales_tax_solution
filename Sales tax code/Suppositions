@@ -1,0 +1,4 @@
+There is a medical database inventory which needs to be accessed to get the type.
+For the sake of simplicity I am only considering pills.
+
+Input has specific format :-> qty name "at" price
